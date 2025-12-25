@@ -12,7 +12,8 @@ This project demonstrates how to control LEDs using hand gestures through a comb
 # Circuit Diagram
 <img width="1920" height="1080" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/7282997e-faf7-4609-a555-014752dc836f" />
 
-https://github.com/user-attachments/assets/1b863d39-5119-4909-a686-17da66abbf22
+# Demo
+![Example](./img/demo.gif)
 
 # Reference 
 - [Crontrolling LEDs Using Hand Gesture](https://circuitdigest.com/microcontroller-projects/controlling-leds-using-hand-gestures-with-esp32-and-python)
